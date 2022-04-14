@@ -44,3 +44,11 @@ Pemakaian Alert sebagai property window.<br>
 ### HTML DOM
 >> Pilihan menggunakan checkBox dengan perhitungan otomatis.<br>
 ![gambar12](screenshot/12.png)
+
+## Pertanyaan dan Tugas
+>> Buat script untuk melakukan validasi pada isian form.<br>
+![gambar14](screenshot/14.png)
+>> hasil browsing.<br>
+![gambar15](screenshot/15.png)
+
+> Terimah kasih 
