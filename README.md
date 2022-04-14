@@ -43,4 +43,4 @@ Pemakaian Alert sebagai property window.<br>
 
 ### HTML DOM
 >> Pilihan menggunakan checkBox dengan perhitungan otomatis.<br>
-! [gambar12](screenshot/)
+![gambar12](screenshot/12.png)
